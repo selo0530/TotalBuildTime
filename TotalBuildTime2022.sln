@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalBuildTime2022", "TotalBuildTime2022.csproj", "{D251054D-72B0-498E-A1C5-A5BF1AA747F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalBuildTime2022", "proj\2022\TotalBuildTime2022.csproj", "{D251054D-72B0-498E-A1C5-A5BF1AA747F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
